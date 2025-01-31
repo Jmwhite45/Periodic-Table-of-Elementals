@@ -1,0 +1,33 @@
+{
+  "id": "periodic-table-of-elementals",
+  "title": "Periodic Table of Elementals",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Jmwhite45",
+      "flags": {}
+    },
+    {
+      "name": "Catilus",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "elemetals",
+      "label": "Elemetals",
+      "path": "packs/elemetals",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
