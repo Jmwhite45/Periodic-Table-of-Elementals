@@ -8,12 +8,10 @@
   },
   "authors": [
     {
-      "name": "Jmwhite45",
-      "flags": {}
+      "name": "Jmwhite45"
     },
     {
-      "name": "Catilus",
-      "flags": {}
+      "name": "Catilus"
     }
   ],
   "packs": [
@@ -22,12 +20,12 @@
       "label": "Elemetals",
       "path": "packs/elemetals",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     }
-  ]
+  ],
+  "url": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals"
 }
