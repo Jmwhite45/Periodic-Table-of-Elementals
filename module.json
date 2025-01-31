@@ -27,5 +27,8 @@
       }
     }
   ],
-  "url": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals"
+  "url": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals",
+  "download": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/archive/refs/tags/Prototype.zip",
+  "manifest": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/releases/latest/download/module.json",
+  "bugs":"https://github.com/Jmwhite45/Periodic-Table-of-Elementals/issues"
 }
