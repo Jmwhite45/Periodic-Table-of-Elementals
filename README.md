@@ -19,6 +19,15 @@ Elemental Blessings 0/118 ![8%](https://progress-bar.xyz/0)
 
 
 ## Credits
-Author: Catilus RPG
+**Author**: Catilus RPG
 
-Developer: Jmwhite45
+**Module Developer**: Jmwhite45
+
+**Art**: Christina Kritikou/Catilus
+
+**Design and Edits**: Theodore Koukouvitis
+
+**Layout Desgin**: Charlotte & Robbert Irrgang
+
+## Buy the Book
+[Drive Thru RPG](https://www.drivethrurpg.com/en/product/498792/periodic-table-of-elementals)
