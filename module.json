@@ -1,17 +1,19 @@
 {
   "id": "periodic-table-of-elementals",
   "title": "Periodic Table of Elementals",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "authors": [
     {
-      "name": "Jmwhite45"
+      "name": "Jmwhite45",
+      "flags": {}
     },
     {
-      "name": "Catilus"
+      "name": "Catilus",
+      "flags": {}
     }
   ],
   "packs": [
@@ -25,10 +27,42 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "spells-and-items",
+      "label": "Spells & Items",
+      "path": "packs/spells-and-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "blessings",
+      "label": "Blessings",
+      "path": "packs/blessings",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "rules",
+      "label": "Rules",
+      "path": "packs/rules",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals",
   "download": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/archive/refs/tags/Prototype.zip",
   "manifest": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/releases/latest/download/module.json",
-  "bugs":"https://github.com/Jmwhite45/Periodic-Table-of-Elementals/issues"
+  "bugs": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/issues"
 }

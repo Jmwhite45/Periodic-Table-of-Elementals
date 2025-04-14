@@ -8,11 +8,11 @@ Meditate with xenon elementals, summon cute elemental familiars, ride tungsten e
 Time to (chemically) transform your games!
 
 ## Progress
-Elementals 10/118 ![8%](https://progress-bar.xyz/8)
+Elementals 118/118 ![100%](https://progress-bar.xyz/100)
 
-Spells 0/? ![8%](https://progress-bar.xyz/0)
+Spells 2/2 ![8%](https://progress-bar.xyz/0)
 
-Item 0/? ![8%](https://progress-bar.xyz/0)
+Item 0/12 ![8%](https://progress-bar.xyz/0)
 
 Elemental Blessings 0/118 ![8%](https://progress-bar.xyz/0)
 
