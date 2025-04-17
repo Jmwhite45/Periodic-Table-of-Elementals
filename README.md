@@ -10,11 +10,17 @@ Time to (chemically) transform your games!
 ## Progress
 Elementals 118/118 ![100%](https://progress-bar.xyz/100)
 
-Spells 2/2 ![8%](https://progress-bar.xyz/100)
+Spells 2/2 ![100%](https://progress-bar.xyz/100)
 
-Item 0/12 ![8%](https://progress-bar.xyz/0)
+Item 2/12 ![17%](https://progress-bar.xyz/17)
 
 Elemental Blessings 0/118 ![8%](https://progress-bar.xyz/0)
+
+Rules Basically Done ![90%](https://progress-bar.xyz/90)
+
+World Building 0/1 ![0%](https://progress-bar.xyz/0)
+
+Tournament of the elements 0/4 ![0%](https://progress-bar.xyz/0)
 
 
 
