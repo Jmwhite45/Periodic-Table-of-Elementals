@@ -10,7 +10,7 @@ Time to (chemically) transform your games!
 ## Progress
 Elementals 118/118 ![100%](https://progress-bar.xyz/100)
 
-Spells 2/2 ![8%](https://progress-bar.xyz/0)
+Spells 2/2 ![8%](https://progress-bar.xyz/100)
 
 Item 0/12 ![8%](https://progress-bar.xyz/0)
 
