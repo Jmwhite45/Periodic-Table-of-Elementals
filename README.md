@@ -21,7 +21,7 @@ Elemental Blessings 0/118 ![8%](https://progress-bar.xyz/0)
 ## Credits
 **Author**: Catilus RPG
 
-**Module Developer**: Jmwhite45
+**Module Developer**: Jmwhite45(TheRedMage)
 
 **Art**: Christina Kritikou/Catilus
 
