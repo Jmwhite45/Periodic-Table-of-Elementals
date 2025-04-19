@@ -33,36 +33,64 @@
       "label": "Spells & Items",
       "path": "packs/spells-and-items",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "blessings",
       "label": "Blessings",
       "path": "packs/blessings",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "rules",
       "label": "Rules",
       "path": "packs/rules",
       "type": "JournalEntry",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "periodic-rolltables-of-elementals",
+      "label": "Periodic Rolltables of elementals",
+      "path": "packs/periodic-rolltables-of-elementals",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "url": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals",
   "download": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/archive/refs/tags/v0.2.zip",
   "manifest": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/releases/latest/download/module.json",
-  "bugs": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/issues"
+  "bugs": "https://github.com/Jmwhite45/Periodic-Table-of-Elementals/issues",
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dwarves-in-a-sack",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
 }

@@ -12,15 +12,19 @@ Elementals 118/118 ![100%](https://progress-bar.xyz/100)
 
 Spells 2/2 ![100%](https://progress-bar.xyz/100)
 
-Item 2/12 ![17%](https://progress-bar.xyz/17)
+Item 12/12 ![100%](https://progress-bar.xyz/100)
 
-Elemental Blessings 0/118 ![8%](https://progress-bar.xyz/0)
+Elemental Blessings* 118/118 ![100%](https://progress-bar.xyz/100)
 
-Rules Basically Done ![90%](https://progress-bar.xyz/90)
+Rules ![100%](https://progress-bar.xyz/100)
 
-World Building 0/1 ![0%](https://progress-bar.xyz/0)
+World Building 0/1 ![100%](https://progress-bar.xyz/100)
 
-Tournament of the elements 0/4 ![0%](https://progress-bar.xyz/0)
+Tournament of the elements 5/5 ![100%](https://progress-bar.xyz/100)
+
+Elemental Blessings* 0/118 ![0%](https://progress-bar.xyz/0)
+
+*Elemental blessings are split into 2 passes. First pass gets them into the world and the second actually makes them function mechanically
 
 
 
