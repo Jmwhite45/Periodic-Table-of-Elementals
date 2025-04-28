@@ -6,6 +6,9 @@
     "minimum": "12",
     "verified": "12"
   },
+  "scripts":[
+    "module.js"
+  ],
   "authors": [
     {
       "name": "Jmwhite45",
